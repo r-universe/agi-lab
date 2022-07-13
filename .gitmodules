@@ -3,3 +3,15 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "SPLICE"]
+	path = SPLICE
+	url = https://github.com/agi-lab/splice
+	shallow = true
+	subdir = SPLICE
+	registered = true
+[submodule "SynthETIC"]
+	path = SynthETIC
+	url = https://github.com/agi-lab/synthetic
+	shallow = true
+	subdir = SynthETIC
+	registered = true
