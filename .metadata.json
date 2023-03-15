@@ -1,10 +1,10 @@
 [
   {
-    "package": "SynthETIC",
+    "package": "SPLICE",
     "oncran": true
   },
   {
-    "package": "SPLICE",
+    "package": "SynthETIC",
     "oncran": true
   }
 ]
